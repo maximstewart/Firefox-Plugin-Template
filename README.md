@@ -1,2 +1,10 @@
-# Firefox-Plugin-Template
-This is a template to quickly start developing a Firefox plugin/extension.
+# template
+
+template works to improve...
+<br/>
+
+
+# Download
+https://addons.mozilla.org/en-US/firefox/addon/</your path>
+
+# Version: 1.0.0

@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "template",
+  "version": "1.0.0",
+  "description": "template.",
+
+  "applications": {
+    "gecko": {
+      "id": "template@itdominator.com"
+    }
+  },
+
+  "icons": {
+    "48": "images/icons/template.png",
+    "96": "images/icons/template.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+
+  "browser_action": {
+    "default_icon": "images/icons/template.png",
+    "default_title": "template",
+    "default_popup": "pages/template.html"
+  }
+
+}
